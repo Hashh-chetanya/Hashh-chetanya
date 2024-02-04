@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hashh-chetanya
 - 👀 I’m interested in ...java and web based projects
-- 🌱 I’m currently learning ...web development
+- 🌱 I’m curretly working as a freelancer on web development based projects
 - 💞️ I’m looking to collaborate on ...E commerce based sites
 - 📫 How to reach me ...mail me or dm me on chetanyagupta94@gmail.com
 
